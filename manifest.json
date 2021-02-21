@@ -1,0 +1,19 @@
+{
+   "background_color": "#ffffff",
+   "description": "This is a description for the application.",
+   "display": "standalone",
+   "icons": [{
+      "src": "https://vit-url.com/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+   }, {
+      "src": "https://vit-url.com/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+   }],
+   "name": "VISHWAKARMA INSTITUTES",
+   "scope": "/",
+   "short_name": "MyApp",
+   "start_url": "/",
+   "theme_color": "#ffffff"
+}
